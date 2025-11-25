@@ -1,4 +1,4 @@
-# 🐍 Python Basics – Module 2 Assignment
+# 🐍 Python Basics – Assignment 1
 
 This repository contains Python programs created for **Assignment 1 – Module 2: Basic Python Concepts**.
 
