@@ -61,4 +61,4 @@ Reversed first five: [5, 4, 3, 2, 1]
 |-----------|-------------|
 | dict.py | Solution for Task 1 (Dictionary of student marks) |
 | list.py | Solution for Task 2 (List slicing and reversing) |
-| README.md | Project documentation |
+| README.md | Project documentation | 
